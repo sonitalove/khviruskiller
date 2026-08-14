@@ -1,0 +1,8 @@
+{
+  "latest_version": "3.2",
+  "min_required_version": "3.2",
+  "v31_disabled": true,
+  "title_kh": "🔴 សេចក្តីជូនដំណឹងអាប់ដេត (Update Required)",
+  "message_kh": "⚠️ កម្មវិធី KHVirusKiller v3.1 ត្រូវបានផ្អាកដំណើរការជាផ្លូវការ!\n\nសូមធ្វើការទាញយក និងដំឡើង KHVirusKiller v3.2 (Version ថ្មីបំផុត) ដើម្បីបន្តប្រើប្រាស់។",
+  "download_url": "https://github.com/sonitalove/khviruskiller/releases/latest"
+}
