@@ -1,7 +1,3 @@
-Mandatory Final Step on GitHub
-To enforce the kill switch online so that v3.1, v3.2, and v3.3 users are permanently blocked, push or update your version.json file on GitHub (https://raw.githubusercontent.com/sonitalove/khviruskiller/main/version.json) with this exact text:
-
-json
 {
   "latest_version": "3.4",
   "min_required_version": "3.4",
